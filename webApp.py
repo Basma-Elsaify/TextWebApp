@@ -1,10 +1,6 @@
 # Import required libraries
 import streamlit as st
 
-# Set up Streamlit app with Header and Title
-st.set_page_config(page_title="LLMBI", page_icon=":LLMBI:")
-st.image('llmbi.png', width=120)
-st.header("LLMBI is a Generative AI Assistant")
 st.markdown("""
 
 Crafting an in-depth analysis of a substantial oil and gas business operation with a network of 500 stations, revealing the intricate details of daily transactions, service offerings, and regional distribution, requires an extensive exploration into the operational model, financial dynamics, and market trends that shape the industry. This hypothetical company, with its diversified portfolio spanning fuel sales, convenience stores (c-stores), lubricant (lube) products, and car wash services across strategic locations in Abu Dhabi, Dubai, Northern Emirates, and Border Stations, provides a comprehensive case study on successful business strategies in the oil and gas sector.
