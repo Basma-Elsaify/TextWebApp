@@ -55,28 +55,28 @@ Several key trends emerge from the company's operational data:
 Abu Dhabi, being the cornerstone of the company's operations with 250 stations, showcases a diverse range of performance metrics. Based on revenue, the top and bottom 10 stations in Abu Dhabi are identified, offering insights into market dynamics, customer preferences, and operational challenges.
 
 #### Top 10 Stations in Abu Dhabi (by Revenue)
-1. **ADNOC | Khalifa City (766)**: Leading with its strategic location and high traffic volume.
-2. **ADNOC | Embassies Area (782)**: High revenue due to its proximity to diplomatic residences and offices.
-3. **ADNOC | Al Etihad (786)**: Benefits from serving both locals and tourists.
-4. **ADNOC | Officer's Club (950)**: Popular among high-income demographics.
-5. **ADNOC | Madinat Zayed (999)**: Draws in customers with a range of services.
-6. **ADNOC | Yas North (688)**: High sales from tourists and local residents.
-7. **ADNOC Service Station - Al Shabiya (152)**: Busy residential area boosts sales.
-8. **ADNOC Service Station | Car Care Centre (892)**: Unique services attract more customers.
-9. **Etihad plaza ADNOC**: Central location in a commercial hub.
-10. **ADNOC Fuel Station**: High fuel and c-store sales.
+1. **ADNOC | Khalifa City (766)**
+2. **ADNOC | Embassies Area (782)**
+3. **ADNOC | Al Etihad (786)**
+4. **ADNOC | Officer's Club (950)**
+5. **ADNOC | Madinat Zayed (999)**
+6. **ADNOC | Yas North (688)**
+7. **ADNOC Service Station - Al Shabiya (152)**
+8. **ADNOC Service Station | Car Care Centre (892)**
+9. **Etihad plaza ADNOC**
+10. **ADNOC Fuel Station**
 
 #### Bottom 10 Stations in Abu Dhabi (by Revenue)
-1. **ADNOC- Abu Kadra**: Lower traffic volume impacts sales.
-2. **ADNOC | 1086 | Opp Emirates Int School**: Seasonal fluctuations with school calendar.
-3. **ADNOC | 1008 | Sheikh Zayed Rd**: Competitive area with multiple options for customers.
-4. **ADNOC- Bin Hendi**: Limited access reduces customer flow.
-5. **ADNOC - Hassa**: Peripheral location affects visibility and traffic.
-6. **ADNOC diesel & petrol station**: Specialized services limit broader customer appeal.
-7. **ADNOC Service Station**: Challenges in local market penetration.
-8. **ADNOC Service Station | Airwing (974)**: Specific customer base with limited expansion.
-9. **ADNOC Service Station -927**: Operational inefficiencies impact performance.
-10. **ADNOC Petrol Station**: Needs updates and renovation to attract more customers.
+1. **ADNOC- Abu Kadra**
+2. **ADNOC | 1086 | Opp Emirates Int School**
+3. **ADNOC | 1008 | Sheikh Zayed Rd**
+4. **ADNOC- Bin Hendi**
+5. **ADNOC - Hassa**
+6. **ADNOC diesel & petrol station**
+7. **ADNOC Service Station**
+8. **ADNOC Service Station | Airwing (974)**
+9. **ADNOC Service Station -927**
+10. **ADNOC Petrol Station**
 
 ### Car Wash Service Dynamics
 
